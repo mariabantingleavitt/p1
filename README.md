@@ -3,6 +3,7 @@
 ----
 ## Live URL
 <http://mariabl.me/p1/>
+<http://mariabl.me/htdocs/p1>
 
 ## Description
 > P1 for dwa15 using the hello-world file created in Lecture 2.
