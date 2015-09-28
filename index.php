@@ -20,7 +20,7 @@
 
 <div class="p2">
   <h2>Project 2 Password Generator</h2>
-  <p><a href=https://mariabl.me/htdocs>View</a><br><a href=https://github.com/mariabantingleavitt/htdocs>Github</a></p>
+  <p><a href=http://p2.mariabl.me/htdocs/>View</a><br><a href=https://github.com/mariabantingleavitt/htdocs>Github</a></p>
 </div>
 
 <div class="p3">
